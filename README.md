@@ -7,8 +7,11 @@ Alur Algoritma
 4. Tampilkan luas persegi panjang
 5. Selesai
 
+
 Flowchart program
-![img](
+ 
+![img](https://raw.githubusercontent.com/MUTIARAIZMI/Menghitung-luas-persegi-panjang/master/flowchart.png)
+
 
 
 
